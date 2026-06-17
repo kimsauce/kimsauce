@@ -25,7 +25,7 @@ Annual attendee: Google Cloud Next · Write the Docs community member & conferen
 
 **Recent work**
 
-- Shipped **Algolia Ask AI** - conversational search powered by Algolia + Gemini, integrated into Sumo Logic docs
+- Built **Algolia Ask AI** end-to-end — custom React navbar button, keyboard shortcut (Cmd+I), DocSearch Enter-key routing, persistent sidepanel with copy-to-clipboard, suggested questions, dark mode, and auto-resize input. Shipped after evaluating Agent Studio migration; implemented against Algolia's legacy Ask AI for optimal UX control.
 - Built **Claude Code scaffolding** for [`SumoLogic/sumologic-documentation`](https://github.com/SumoLogic/sumologic-documentation) - slash commands, skills, GitHub Actions workflows, Jira MCP integration
 - Documented **External MCP Server** feature enabling AI tools to connect directly to Sumo Logic APIs
 - Implemented **AEO/llms.txt strategy** - four-tier agent-friendliness framework for AI crawler visibility
